@@ -1,10 +1,10 @@
 [package]
-name = "pyo3_ffi_benchmark"
+name = "pyo3_ffi_bench"
 version = "0.1.0"
 edition = "2024"
 
 [lib]
-name = "pyo3_ffi_benchmark"
+name = "pyo3_ffi_bench"
 crate-type = ["cdylib"] 
 
 [dependencies.pyo3]
